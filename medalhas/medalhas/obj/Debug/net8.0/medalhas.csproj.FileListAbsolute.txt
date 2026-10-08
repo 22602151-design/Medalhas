@@ -1,0 +1,14 @@
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\obj\Debug\net8.0\medalhas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\obj\Debug\net8.0\medalhas.AssemblyInfoInputs.cache
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\obj\Debug\net8.0\medalhas.AssemblyInfo.cs
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\obj\Debug\net8.0\medalhas.csproj.CoreCompileInputs.cache
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\bin\Debug\net8.0\medalhas.exe
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\bin\Debug\net8.0\medalhas.deps.json
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\bin\Debug\net8.0\medalhas.runtimeconfig.json
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\bin\Debug\net8.0\medalhas.dll
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\bin\Debug\net8.0\medalhas.pdb
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\obj\Debug\net8.0\medalhas.dll
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\obj\Debug\net8.0\refint\medalhas.dll
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\obj\Debug\net8.0\medalhas.pdb
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\obj\Debug\net8.0\medalhas.genruntimeconfig.cache
+C:\Users\Laryssa\OneDrive\logp\medalhas\medalhas\obj\Debug\net8.0\ref\medalhas.dll
